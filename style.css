@@ -1,0 +1,12 @@
+#game {
+    display: grid;
+    width: 500px;
+    height: 500px;
+}
+.grid-element {
+    transition: 0.1s;
+
+}
+.grid-element:hover {
+    background-color: aqua;
+}
